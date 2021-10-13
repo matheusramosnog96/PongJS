@@ -2,6 +2,7 @@ let xBolinha = 300;
 let yBolinha = 200;
 let diametro = 15;
 let raio = diametro / 2;
+let raio2 = diametro / 2;
 
 //placar
 let meusPontos = 0;
